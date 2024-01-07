@@ -14,7 +14,7 @@ Welcome to Holos-Bot, a Discord bot tailored for your personal server, packed wi
 
 To get started with Holos-Bot in your Discord server, follow these simple steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/yourusername/Holos-Bot.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/danielwidhiarto/HOLOS-BOT.git`.
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies by running `npm install`.
 
@@ -28,7 +28,7 @@ If you would like to contribute to the development of Holos-Bot, please fork the
 
 ## Support and Issues
 
-If you encounter any issues or have questions about Holos-Bot, feel free to open an issue on the [GitHub repository](https://github.com/yourusername/Holos-Bot/issues). We'll do our best to assist you.
+If you encounter any issues or have questions about Holos-Bot, feel free to open an issue on the [GitHub repository](https://github.com/danielwidhiarto/draxlorant-store/issues). We'll do our best to assist you.
 
 ## License
 
