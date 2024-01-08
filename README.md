@@ -1,3 +1,7 @@
+# Rating
+
+[![CodeFactor](https://www.codefactor.io/repository/github/danielwidhiarto/holos-bot/badge)](https://www.codefactor.io/repository/github/danielwidhiarto/holos-bot)
+
 # Holos-Bot
 
 Welcome to Holos-Bot, a Discord bot tailored for your server, packed with unique features and functionality. Holos-Bot is based on JavaScript and designed with an emphasis on the Indonesian language.
